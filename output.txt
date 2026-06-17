@@ -1,0 +1,64 @@
+AI BOLLYWOOD MOVIE RECOMMENDATION SYSTEM
+=================================================================
+Enter your name: Noor
+
+Welcome Noor!
+Let's find the perfect Bollywood movie for you!
+
+=================================================================
+1. Get Movie Recommendations
+2. View Recommendation History
+3. Exit
+=================================================================
+Choose an option (1-3): 1
+
+Available Genres:
+• Action
+• Romance
+• Comedy
+• Drama
+• Thriller
+
+Enter your favorite genre: comedy
+Enter your favorite Bollywood actor (optional): akshay kumar
+
+Analyzing your preferences...
+Generating recommendations...
+
+⭐ Recommended Movies ⭐
+
+1. Bhool Bhulaiyaa
+   Lead Actor : Akshay Kumar
+   Match Score : 115%
+----------------------------------------
+2. Hera Pheri
+   Lead Actor : Akshay Kumar
+   Match Score : 105%
+----------------------------------------
+3. 3 Idiots
+   Lead Actor : Aamir Khan
+   Match Score : 100%
+----------------------------------------
+
+=================================================================
+1. Get Movie Recommendations
+2. View Recommendation History
+3. Exit
+=================================================================
+Choose an option (1-3): 2
+
+Your Recommendation History
+----------------------------------------
+1. Bhool Bhulaiyaa
+2. Hera Pheri
+3. 3 Idiots
+
+=================================================================
+1. Get Movie Recommendations
+2. View Recommendation History
+3. Exit
+=================================================================
+Choose an option (1-3): 3
+
+Thank you for using the Bollywood Recommendation System!
+Visit again for more movie suggestions. 🎬
